@@ -1,0 +1,13 @@
+body {
+    background: url("heart.png");
+    font-family: sans-serif;
+}
+
+.content {
+    background-color: white;
+    max-width: 1000px;
+    margin: 4rem auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 5px black;
+}
